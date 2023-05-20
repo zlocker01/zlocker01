@@ -3,7 +3,7 @@
 
 - Estoy trabajando como **Freelancer Desarrollado Web**
 
-- 👨‍💻Todos mis proyectos están disponibles en [diegoberistain.com](diegoberistain.com)
+- 👨‍💻Todos mis proyectos están disponibles en [www.diegoberistain.com](diegoberistain.com)
 
 - Preguntame sobre **html, css, javascript**
 
