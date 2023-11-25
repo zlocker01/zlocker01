@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Diego</h1>
-<h3 align="center">Un Frontend Developer de México</h3>
+<h3 align="center">Un MERN Developer Jr. en México</h3>
 
 - Estoy trabajando como **Freelancer Desarrollado Web**
 
