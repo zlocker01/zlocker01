@@ -7,7 +7,7 @@
 
 - Preguntame sobre **html, css, javascript, React, Sass, Node.js, Express, Mongo DB**
 
-- 📫Como contactarme **diegoberistainwebdeveloper@diegoberistain.com**
+- 📫Como contactarme **contacto@diegoberistain.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
